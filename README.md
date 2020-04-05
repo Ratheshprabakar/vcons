@@ -29,5 +29,5 @@ vcons.consonants(sample_string)     #returns the number of consonants in the giv
 
 ```
 
-
+If anyone found any issue , feel free to make PR :)
 
