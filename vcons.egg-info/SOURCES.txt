@@ -1,0 +1,8 @@
+README.md
+setup.py
+vcons/__init__.py
+vcons/vcons.py
+vcons.egg-info/PKG-INFO
+vcons.egg-info/SOURCES.txt
+vcons.egg-info/dependency_links.txt
+vcons.egg-info/top_level.txt

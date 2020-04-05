@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: vcons
+Version: 1.0.1
+Summary: A small package to count number of vowels and consonants in a string
+Home-page: https://github.com/Ratheshprabakar/vcons
+Author: Rathesh Prabakar
+Author-email: ratheshprabakar@gmail.com
+License: UNKNOWN
+Description: 
+        A simple package to count number of vowels and consonants in a string.
+        
+        ## How to install
+        
+        ```
+        pip install vcons
+        ```
+        ## If you are trouble installing, try this
+        ```
+        pip3 install vcons
+        ```
+        ## How to use
+        
+        Below example will help you
+        
+        ```
+        from vcons import vcons
+        sample_string= "python"
+        vcons.vowels(sample_string)	# returns the number of vowels in the given string
+        
+        sample_string = "PACKAGE"
+        vcons.consonants(sample_string)     #returns the number of consonants in the given string
+        
+        ```
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
